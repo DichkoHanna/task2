@@ -28,13 +28,13 @@ public class AirportService {
         String setPassenger = " ";
         setPassenger = keyboard.nextLine();
         if (setPassenger.equals("Тарас Шевченко"));{
-            System.out.println("Ви обрали Тараса Шевченко. Оберіть ваше місце, одне з чотирьох");}
+            System.out.println("Ви обрали Тараса Шевченко. Оберіть ваше місце, одне з трьох");}
         if (setPassenger.equals("Іван Франко"));{
-            System.out.println("Ви обрали Івана Франка. Оберіть ваше місце, одне з чотирьох");}
+            System.out.println("Ви обрали Івана Франка. Оберіть ваше місце, одне з трьох");}
         if (setPassenger.equals("Леся Українка"));{
-            System.out.println("Ви обрали Лесю Українку. Оберіть ваше місце, одне з чотирьох");}
+            System.out.println("Ви обрали Лесю Українку. Оберіть ваше місце, одне з трьох");}
         if (setPassenger.equals("Ольга Кобилянська"));{
-            System.out.println("Ви обрали Ольгу Кобилянську. Оберіть ваше місце, одне з чотирьох");}
+            System.out.println("Ви обрали Ольгу Кобилянську. Оберіть ваше місце, одне з трьох");}
 
         public void fillArray (int[] planeMriyaseats) {
                 for int i = 0; i++) {
